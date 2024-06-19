@@ -89,7 +89,7 @@ plt.show()
 
 ## Visualisation
 
-![Box plot for data job salaries](Project\images\salaryanalysisboxplot.png)
+![Box plot for data job salaries](https://github.com/ehussain22/PythonDataAnalysis/blob/main/Project/images/salaryanalysisboxplot.png)
 
 ## Insights
 
@@ -129,7 +129,7 @@ plt.show()
 
 ### Visualisation 
 
-![boxplots for skills demand and pay](Project\images\skillspaydemandboxplot.png)
+![boxplots for skills demand and pay](https://github.com/ehussain22/PythonDataAnalysis/blob/main/Project/images/skillspaydemandboxplot.png)
 
 
 ### Which skills are the most optimal for data analyst roles in the UK
@@ -172,7 +172,7 @@ plt.show()
 
 ### Visualisation
 
-![OptimalSkills](Project\images\optimalskills.png)
+![OptimalSkills](https://github.com/ehussain22/PythonDataAnalysis/blob/main/Project/images/optimalskills.png)
 
 ### Insights 
 
