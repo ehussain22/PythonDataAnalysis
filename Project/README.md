@@ -31,7 +31,7 @@ plt.show()
 
 ### Results
 
-![Top Skills for each role](Project\images\skills_demand_distribution.png)
+![Top Skills for each role](https://github.com/ehussain22/PythonDataAnalysis/blob/main/Project/images/skills_demand_distribution.png)
 
 ### Insights
 
@@ -65,7 +65,7 @@ plt.show()
 ```
 
 ### Visualisation 
-![SkillsTrendIntheUK](Project\images\skillstrend.png)
+![SkillsTrendIntheUK](https://github.com/ehussain22/PythonDataAnalysis/blob/main/Project/images/skillstrend.png)
 
 ### Insights
 
