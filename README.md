@@ -1,6 +1,6 @@
 # Data Analysis for Roles in Data 
 
-This is a project where I am analysisng public data on roles within the data industry, I will be looking at extracting data on salary and demand of different skills and roles, as well as plotting visual graphs to demonstrate my findings. 
+This is a project where I am analysing public data on roles within the data industry, I will be looking at extracting data on salary and demand of different skills and roles, as well as plotting visual graphs to demonstrate my findings. 
 
 ### Tools Used 
 
